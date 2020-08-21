@@ -5,3 +5,6 @@ Each branch contains a new "Step" of code. Please fork, then clone.
 
 # Author
 Evelyne 
+
+## Technologies used
+Gradle
